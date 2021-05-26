@@ -1,4 +1,4 @@
-<img align="right" width="35%" src="https://imgur.com/7a03a7dc-60e4-4095-b271-c35cc0ffdec1">
+<img align="right" width="35%" src="https://i.imgur.com/Lu8oC2K.png">
 
 # Hey! I'm Gabriel Netz 🙂
 
