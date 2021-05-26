@@ -3,7 +3,7 @@
 
 ## About Me:
 
-I'm Brazillian, but currently i live in London as a international student at the University of Greenwich, attending a Computer Science Degree.
+I'm Brazilian, but currently i live in London as a international student at the University of Greenwich, attending a Computer Science Degree.
 
 Currently, i work at the university as a research developer, mainly with the [EUNOMIA Research Group](https://www.eunomia.social/ "EUNOMIA"), a research project funded by the European Union’s H2020 research and innovation programme, on the development of a Trustworthiness nudge for the Social Media platform. Previous projects as a research developer included the development of the [NETATMO Machine Learning](https://github.com/gabrielnetz/NetAtmoMachineLearning "NETATMO") module, used for the VR-IOT project. 
 
@@ -13,6 +13,9 @@ I've also helped on the development of the Yu-Gi-Oh [Asulla Piscu FTK Simulator]
 
 <br>
 
+## Areas of Experience:
+
+My main programming languages are Python and Javascript, but i do have experience working in multiple other different languages. I'm currently doing my degree endorsement in Data Science and Machine Learning, which are areas that i am passionate about, currently work in and plan to keep learning more in the future.
 
 ## Projects:
 
