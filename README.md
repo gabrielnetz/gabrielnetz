@@ -11,7 +11,7 @@ Currently, i work at the university as a research developer, mainly with the [EU
 
 I've also helped on the development of the Yu-Gi-Oh [Asulla Piscu FTK Simulator](https://replit.com/@MarcusPatel/FTKMath#README.md "FTK"), a very fun personal project which involved both my love for computing and trading card games, and it is explained with more detail in this popular [Youtube Video](https://www.youtube.com/watch?v=fNiyaKrNPF8&t=66s "FTK") we created explaining the logic begind it
 
-
+<br>
 
 
 ## Projects
