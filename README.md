@@ -16,7 +16,7 @@
 
 ## Areas of Experience:
 
-  My main programming languages are Python and Javascript, but i do have experience working in multiple other different languages. I'm currently doing my degree endorsement in Data Science and Machine Learning, which are areas that i am passionate about, currently work in and plan to keep learning more in the future.
+  My main programming languages are Python and Javascript, but i do have experience working in multiple other different languages. I'm currently doing my degree endorsement in Data Science and Machine Learning, which are areas that i am passionate about, currently work in and plan to keep learning more in the future. You can check my [CV](https://media-exp1.licdn.com/dms/document/C4D2DAQF1nZNv-wqOCA/profile-treasury-document-pdf-analyzed/0/1604671570628?e=1622145600&v=beta&t=Ih8aKJ7omm4G2hB9Z3PlvYI2mYeLsJYP3XIb4vjangw "FTK") for more information in my current and previous work and academic experiences
 
 ## Projects:
 
