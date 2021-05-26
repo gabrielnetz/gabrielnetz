@@ -3,6 +3,7 @@
 # Hey! I'm Gabriel Netz 🙂
 <br>
 <img align="right" width="40%" src="https://i.imgur.com/Lu8oC2K.png">
+
 ## About Me:
 
   I'm Brazilian, but currently i live in London as a international student at the University of Greenwich, attending a Computer Science Degree.
