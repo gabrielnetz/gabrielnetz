@@ -1,5 +1,7 @@
 # Hey! I'm Gabriel Netz 🙂
 
+<img align="right" width="20%" src="https://i.imgur.com/R7Byhcz.jpg">
+
 
 ## About Me:
 
