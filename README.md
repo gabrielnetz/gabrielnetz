@@ -1,7 +1,7 @@
 # Hey! I'm Gabriel Netz 🙂
 
 
-## About Me
+## About Me:
 
 I'm Brazillian, but currently i live in London as a international student at the University of Greenwich, attending a Computer Science Degree.
 
@@ -14,11 +14,11 @@ I've also helped on the development of the Yu-Gi-Oh [Asulla Piscu FTK Simulator]
 <br>
 
 
-## Projects
+## Projects:
 
 Due to university and work commitments, most of my projects are closely related to those. But, i am open to freelance work, especially during summer time, so in case you are interested, you can contact me through the next section
 
-## Contact Me
+## Contact Me:
 You can reach me out through any of the contacts listed below and i will be happy to talk to you ;)
     
 • LinkedIn - [/GabrielNetz](https://www.linkedin.com/in/gabriel-netz-benakouche/)   
